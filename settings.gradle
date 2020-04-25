@@ -1,0 +1,2 @@
+rootProject.name='BottomNavigationViewNotificationBadge'
+include ':app'

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Alarm"
+        android:id="@+id/bottomNavigationAlarmMenuId"
+        android:icon="@drawable/abc_vector_test"/>
+
+    <item android:title="Clock"
+        android:id="@+id/bottomNavigationClockMenuId"
+        android:icon="@drawable/abc_vector_test"/>
+
+    <item android:title="Timer"
+        android:id="@+id/bottomNavigationTimerMenuId"
+        android:icon="@drawable/abc_vector_test"/>
+
+    <item android:title="Stopwatch"
+        android:id="@+id/bottomNavigationStopWatchMenuId"
+        android:icon="@drawable/abc_vector_test"/>
+
+</menu>
